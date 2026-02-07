@@ -1,8 +1,4 @@
-body {
-	background-image:  url("media/images/Space.jpg");
-}
-table #Dwarfplanets img {
-	padding: 20px;
-	right: 20px
-}
+td, th {
+	border: 1px solid;
+  }
 
