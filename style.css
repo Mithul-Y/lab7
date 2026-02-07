@@ -1,7 +1,7 @@
 body {
 	background-image:  url("media/images/Space.jpg");
 }
-body table#Dwarfplanets img {
+table #Dwarfplanets img {
 	padding: 20px;
 }
 
