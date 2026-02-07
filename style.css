@@ -2,8 +2,8 @@ body {
 	background-image:  url("media/images/Space.jpg");
 	left: 20px;	
 }
-td, th {
-	border: 0px solid blue;
+th {
+	border: 1px solid blue;
   }
 
 
