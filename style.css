@@ -1,4 +1,6 @@
 td, th {
 	border: 1px solid;
   }
-
+body {
+	background-image: url("media/images/Space.jpeg");
+}
