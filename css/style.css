@@ -13,7 +13,7 @@ body {
 	font-size: 1em;
 	text-align: center; 
 }
-#Content-wrapper {
+#Content-wrapper td {
 	border: 1px solid;
 	font-size: 2em;
 }
