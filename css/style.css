@@ -1,6 +1,4 @@
-td{
-	border: 1px solid;
-  }
+
 body {
 	background-image: url("media/images/Space.jpg");
 }
@@ -16,5 +14,6 @@ body {
 	text-align: center; 
 }
 #Content-wrapper {
+	border: 1px solid;
 	font-size: 2em;
 }
