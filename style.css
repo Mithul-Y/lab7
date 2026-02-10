@@ -2,10 +2,6 @@ body {
 	background-image: url("media/images/Space.jpg");
   }
 
-td, th {
-	border: 1px solid;
-  }
-
 #Name {
 	
 	text-align: center;
