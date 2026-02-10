@@ -5,6 +5,7 @@ body {
 	background-image: url("media/images/Space.jpg");
 }
 #Dwarfplanets {
-	width: px;
+	width: 200px;
 	font-size: 2em;
+	text-align: center;
 }
