@@ -4,6 +4,9 @@ td, th {
 body {
 	background-image: url("media/images/Space.jpg");
 }
+#Dwarfplanets {
+	width: 300px;
+}
 #Name {
 	font-size: 3em;
 	text-align: center;
