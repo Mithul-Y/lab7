@@ -3,7 +3,7 @@ body {
 	padding: 100px;
 }
 #content{
-	border: 1px solid;
+	width: 40px;
 }
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
