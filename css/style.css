@@ -7,6 +7,9 @@ body {
 #Dwarfplanets {
 	width: 100px;
 }
+#Headings {
+	font-size: 2em;
+}
 #Images {
 	font-size: 2em;
 	text-align: center; 
