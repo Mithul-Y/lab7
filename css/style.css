@@ -7,18 +7,15 @@ body {
 }
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
-	
+	padding: 80px;
 }
 #content{
 	font-family: 'SN Pro', cursive;
 	border: 1px solid;
-	
+	padding: 80px;
 }
 #Headings {
 	font-size: 34px;
-}
-#head {
-	font-size: 25px;
 }
 #Images {
 	position: relative;
