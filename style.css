@@ -1,9 +1,8 @@
 body {
 	background-image: url("media/images/Space.jpg");
-  }
-
+}
 #Name {
-	
+	width: 300px;
 	text-align: center;
 }
 
