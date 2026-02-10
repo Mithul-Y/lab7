@@ -14,7 +14,8 @@ body {
 }
 #Images {
 	font-size: 2em;
-	text-align: center; 
+	text-align: center;
+	padding: 50px;
 }
 #Name {
 	font-size: 2em;
