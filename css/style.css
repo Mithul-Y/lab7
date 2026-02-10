@@ -2,6 +2,9 @@
 body {
 	padding: 100px;
 }
+#content{
+	border: 1px solid;
+}
 #Dwarfplanets {
 	font-family: 'Devonshire', cursive;
 	width: 200px;
