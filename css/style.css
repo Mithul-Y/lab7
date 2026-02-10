@@ -1,7 +1,5 @@
 td, th {
 	border: 1px solid;
-	position: absolute;
-	right: 30px
   }
 body {
 	background-image: url("media/images/Space.jpg");
