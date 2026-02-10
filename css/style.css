@@ -1,5 +1,6 @@
-
-
+body {
+	width: 900px
+}
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
 }
