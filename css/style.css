@@ -13,7 +13,8 @@ body {
 	font-size: 1em;
 	text-align: center; 
 }
-#Content-wrapper td {
+#Content-wrapper {
 	border: 1px solid;
 	font-size: 2em;
+	text-align: center;
 }
