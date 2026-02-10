@@ -1,13 +1,13 @@
 
 body {
-	padding: 100px;
+	width: 330px;
 }
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
 	width: 200px;
 }
 #content{
-	width: 50px;
+	width: 100px;
 	font-family: 'SN Pro', cursive;
 }
 #Headings {
@@ -19,18 +19,18 @@ body {
 	padding: 150px;
 }
 #Name {
-	font-size: 48px;
+	font-size: 30px;
 	text-align: center;
 }
 #Life {
-	font-size: 48px;
+	font-size: 30px;
 	text-align: center;
 }
 #Size {
-	font-size: 48px;
+	font-size: 30px;
 	text-align: center;
 }
 #Moon {
-	font-size: 48px;
+	font-size: 30px;
 	text-align: center;
 }
