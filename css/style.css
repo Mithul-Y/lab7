@@ -1,6 +1,10 @@
 body {
 	width: 900px
 }
+#h1 {
+	font-family: 'SN Pro', cursive;
+	font-size: 40px;
+}
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
 }
