@@ -15,19 +15,6 @@ body {
 	font-size: 1em;
 	text-align: center; 
 }
-#Name {
-	font-size: 1em;
-	text-align: center;
-}
-#Life {
-	font-size: 1em;
-	text-align: center;
-}
-#Size {
-	font-size: 1em;
-	text-align: center;
-}
-#Moon {
+#Content-wrapper {
 	font-size: 2em;
-	text-align: center;
 }
