@@ -1,13 +1,12 @@
 td, th {
 	border: 1px solid;
-	
+	position: absolute;
+	right: 30px
   }
 body {
 	background-image: url("media/images/Space.jpg");
 }
 #Dwarfplanets {
-	position: absolute;
-	right: 40px;
 	font-family: 'Devonshire', cursive;
 	width: 200px;
 }
