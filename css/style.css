@@ -1,5 +1,5 @@
 body {
-	width: 900px
+	width: 80%;
 }
 #h1 {
 	font-family: 'SN Pro', cursive;
@@ -7,12 +7,12 @@ body {
 }
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
-	padding: 250px;
+	
 }
 #content{
 	font-family: 'SN Pro', cursive;
 	border: 1px solid;
-	padding: 250px
+	
 }
 #Headings {
 	font-size: 34px;
