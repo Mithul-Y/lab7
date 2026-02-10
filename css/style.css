@@ -5,7 +5,21 @@ body {
 	background-image: url("media/images/Space.jpg");
 }
 #Dwarfplanets {
-	width: 200px;
+	width: 600px;
+}
+#Name {
+	font-size: 2em;
+	text-align: center;
+}
+#Life {
+	font-size: 2em;
+	text-align: center;
+}
+#Size {
+	font-size: 2em;
+	text-align: center;
+}
+#Moon {
 	font-size: 2em;
 	text-align: center;
 }
