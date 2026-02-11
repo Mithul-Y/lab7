@@ -10,6 +10,7 @@ td {
 }
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
+	font-size: 30px;
 	padding: 50px;
 	position: absolute;
 	right: 30px;
@@ -20,6 +21,12 @@ td {
 	padding: 40px;
 }
 #content {
-	font-size: 30px;
+	font-family: 'SN Pro', cursive;
+	font-size: 28px;
+	padding: 50px;
+	position: absolute;
+	right: 30px;
+	top: 50px;
+	text-align:center;
 }
 
