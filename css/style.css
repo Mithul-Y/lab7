@@ -6,7 +6,9 @@ body {
 	font-size: 35px;
 }
 td {
-	border: 30px solid;
+	box-sizing: border-box;
+	width: 50%;
+	border: 2px solid;
 	font-size: 28px;
 	text-align:center;
 }
