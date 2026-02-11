@@ -12,6 +12,7 @@ body {
 #Images {
 	position: absolute;
 	right: 20%;
+	top: -35px;
 	text-align: center;
 }
 #Headings {
