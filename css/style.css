@@ -7,8 +7,7 @@ body {
 }
 td {
 	box-sizing: border-box;
-	width: 40%;
-	border: 2px solid;
+	border: 1px solid;
 	font-size: 28px;
 	text-align:center;
 }
