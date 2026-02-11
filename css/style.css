@@ -7,12 +7,12 @@ body {
 }
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
-	padding: 80px;
+	padding: 40px;
 }
 #content{
 	font-family: 'SN Pro', cursive;
 	border: 1px solid;
-	padding: 80px;
+	padding: 40px;
 }
 #Headings {
 	font-size: 34px;
@@ -21,7 +21,7 @@ body {
 	position: absolute;
 	right: 20%;
 	text-align: center;
-	padding: 80px;
+	padding: 40px;
 }
 #Name {
 	font-size: 25px;
