@@ -12,25 +12,14 @@ body {
 #Images {
 	position: absolute;
 	right: 20%;
-	top: 25px;
+	top: 35px;
 	text-align: center;
 }
 #Headings {
 	font-size: 34px;
 }
-#Name {
+#content {
 	font-size: 25px;
 	text-align: center;
-}
-#Life {
-	font-size: 25px;
-	text-align: center;
-}
-#Size {
-	font-size: 25px;
-	text-align: center;
-}
-#Moon {
-	font-size: 25px;
-	text-align: center;
+	padding-top: 40px;
 }
