@@ -9,10 +9,10 @@ body {
 	font-family: 'SN Pro', cursive;
 	padding: 40px;
 }
-#content{
-	font-family: 'SN Pro', cursive;
-	border: 1px solid;
-	padding: 40px;
+#Images {
+	position: absolute;
+	right: 20%;
+	text-align: center;
 }
 #Headings {
 	font-size: 34px;
