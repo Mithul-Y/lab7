@@ -5,17 +5,21 @@ body {
 	font-family: 'SN Pro', cursive;
 	font-size: 35px;
 }
+td {
+	border: 1px solid;
+}
 #Dwarfplanets {
 	font-family: 'SN Pro', cursive;
 	padding: 50px;
 	position: absolute;
 	right: 30px;
 	top: 50px;
+	text-align:center;
 }
 .spaceimage td {
 	padding: 40px;
 }
 #content {
-	font-size: 28px;
+	font-size: 30px;
 }
 
