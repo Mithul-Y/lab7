@@ -12,15 +12,16 @@ body {
 #Images {
 	position: absolute;
 	right: 20%;
-	top: 35px;
-	text-align: center;
+	top: 50px;
+	
 }
 #Headings {
 	font-size: 34px;
 }
 #content {
-	font-size: 25px;
+	font-size: 28px;
 	text-align: center;
 	font-family: 'SN Pro', cursive;
-	padding-top: 80px;
+	padding-top: 70px;
 }
+
