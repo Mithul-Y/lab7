@@ -15,6 +15,11 @@ td {
 	font-size: 20px;
 	text-align:center;
 }
+#Dwarfplanets {
+	width: 100%;
+	padding: 50px;
+	
+}
 .spaceimage td {
 	padding: 40px;
 }
