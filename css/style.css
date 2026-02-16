@@ -1,5 +1,6 @@
 body {
 	width: 100%;
+	
 }
 #h1 {
 	font-family: 'SN Pro', cursive;
@@ -15,10 +16,16 @@ td {
 	font-size: 20px;
 	text-align:center;
 }
+.header {
+	font-weight: bold;
+	text-align: center;
+}
 #Dwarfplanets {
-	width: 100%;
-	padding: 50px;
+	padding: 2rem;
 	
+}
+#content {
+	font-size: 1rem;
 }
 .spaceimage td {
 	padding: 40px;
