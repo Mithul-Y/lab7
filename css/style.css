@@ -1,32 +1,4 @@
-body {
-	width: 100%;
-	
-}
-#h1 {
-	font-family: 'SN Pro', cursive;
-	font-size: 35px;
-}
-td {
-	box-sizing: border-box;
-	width: 100%;
-	padding: 30px;
-	border: 1px solid;
-	position: absolute;
-	right: 20px;
-	font-size: 20px;
-	text-align:center;
-}
-.header {
-	font-weight: bold;
-	text-align: center;
-}
-#Dwarfplanets {
-	padding: 2rem;
-	
-}
-#content {
-	font-size: 1rem;
-}
+
 .spaceimage td {
 	padding: 40px;
 }
