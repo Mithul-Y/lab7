@@ -1,6 +1,9 @@
+td {
+	border: 1px solid;
+}
 
 .spaceimage td {
-	padding: 40px;
+	padding: 0 40px;
 }
 
 
